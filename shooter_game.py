@@ -12,6 +12,8 @@ font2 = font.SysFont('Arial', 36)
 font1 = font.SysFont('Arial', 72)
 #harihari
 
+#inikakDanayangbuat
+
 
 mixer.init()
 mixer.music.load('space.ogg')
