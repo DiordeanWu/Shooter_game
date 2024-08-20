@@ -10,6 +10,7 @@ fire_sound = mixer.Sound('fire.ogg')
 font.init()
 font2 = font.SysFont('Arial', 36)
 font1 = font.SysFont('Arial', 72)
+#harihari
 
 
 mixer.init()
